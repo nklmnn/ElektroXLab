@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.idea/
+
+# Streamlit local config
+.streamlit/
+
+# Assets / misc
+*.png
+*.pdf
